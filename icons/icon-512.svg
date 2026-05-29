@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI calculator PPT icon">
+  <rect width="512" height="512" fill="#002FA7"/>
+  <rect x="86" y="86" width="340" height="340" fill="#fafaf8"/>
+  <rect x="138" y="138" width="236" height="74" fill="#0a0a0a"/>
+  <g fill="#0a0a0a">
+    <rect x="138" y="262" width="54" height="54"/>
+    <rect x="229" y="262" width="54" height="54"/>
+    <rect x="320" y="262" width="54" height="54"/>
+    <rect x="138" y="353" width="54" height="54"/>
+    <rect x="229" y="353" width="54" height="54"/>
+  </g>
+  <rect x="320" y="353" width="54" height="54" fill="#002FA7"/>
+</svg>

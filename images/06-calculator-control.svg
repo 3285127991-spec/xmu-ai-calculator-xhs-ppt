@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" role="img" aria-label="Calculator control interface">
+  <rect width="2100" height="900" fill="#fafaf8"/>
+  <g stroke="#e0e0e0" stroke-width="2">
+    <path d="M180 140H1920M180 280H1920M180 420H1920M180 560H1920M180 700H1920"/>
+    <path d="M300 80V820M540 80V820M780 80V820M1020 80V820M1260 80V820M1500 80V820M1740 80V820"/>
+  </g>
+  <rect x="250" y="135" width="620" height="630" fill="#0a0a0a"/>
+  <rect x="310" y="195" width="500" height="108" fill="#fafaf8"/>
+  <g fill="#fafaf8">
+    <rect x="310" y="370" width="96" height="96"/>
+    <rect x="442" y="370" width="96" height="96"/>
+    <rect x="574" y="370" width="96" height="96"/>
+    <rect x="706" y="370" width="96" height="96"/>
+    <rect x="310" y="502" width="96" height="96"/>
+    <rect x="442" y="502" width="96" height="96"/>
+    <rect x="574" y="502" width="96" height="96"/>
+    <rect x="706" y="502" width="96" height="96"/>
+    <rect x="310" y="634" width="228" height="72"/>
+    <rect x="574" y="634" width="228" height="72"/>
+  </g>
+  <rect x="706" y="370" width="96" height="228" fill="#002FA7"/>
+  <g fill="#002FA7">
+    <rect x="1040" y="210" width="180" height="180"/>
+    <rect x="1320" y="210" width="180" height="180"/>
+    <rect x="1600" y="210" width="180" height="180"/>
+  </g>
+  <g fill="#0a0a0a">
+    <rect x="1040" y="510" width="740" height="16"/>
+    <rect x="1040" y="590" width="520" height="16"/>
+    <rect x="1040" y="670" width="620" height="16"/>
+  </g>
+  <g fill="none" stroke="#002FA7" stroke-width="10">
+    <path d="M1220 300H1320"/>
+    <path d="M1500 300H1600"/>
+    <path d="M870 450H1040"/>
+  </g>
+</svg>
